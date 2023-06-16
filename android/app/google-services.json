@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "176394075239",
+    "project_id": "cardialert-b185b",
+    "storage_bucket": "cardialert-b185b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176394075239:android:d78466c3ce1a81604628c2",
+        "android_client_info": {
+          "package_name": "com.app.CardiAlert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176394075239-4nh7ntlkqlamaihvmfa4e62861kvkl8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.CardiAlert",
+            "certificate_hash": "89a3b3cca42bc9a980127e891140a7dd076e3ed6"
+          }
+        },
+        {
+          "client_id": "176394075239-re686a48i4ni9sppos72420rjd8ocqj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNMrgl3Q4dX6pQ_GliGXdI_HIEu1-mcwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176394075239-re686a48i4ni9sppos72420rjd8ocqj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
